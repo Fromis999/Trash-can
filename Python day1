@@ -1,0 +1,17 @@
+#slicing
+
+a="DM,Talk&Talk,wego"
+
+print(a[:2:])
+
+I can slicing in string with python
+
+
+#indexing
+
+a="980320-4234567"
+
+print(a[7])
+
+If i know what is the ID number I can figure out gender with indexing
+
