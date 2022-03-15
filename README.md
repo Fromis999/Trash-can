@@ -8,16 +8,16 @@
 >>This is a second **blockqute.**
 >>> This is a third **blockqute.**
 
-1.first
-2.second
-3.third
+1. first
+2. second
+3. third
 
-*red
-  *green
-    *blue
--Megan
-  -guri
-    -chaeng
+* red
+  * green
+    * blue
+- Megan
+  - guri
+    - chaeng
 ```javascript
 var foo='bar''
 if(true) foo='foo';
